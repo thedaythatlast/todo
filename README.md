@@ -20,4 +20,6 @@ It uses **Tailwind CSS** for utility-first styling and **Material UI (MUI)** for
   npm run dev
 
 3. Build for production:
-  npm run build 
+  npm run build
+
+Check out https://github.com/thedaythatlast/todo-firebase for deployment with Firebase integration.
